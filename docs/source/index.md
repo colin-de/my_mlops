@@ -1,4 +1,4 @@
 ## Documentation
 
-Documentation for project_name
+Documentation for src
 

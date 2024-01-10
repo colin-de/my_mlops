@@ -8,7 +8,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = project_name
+PROJECT_NAME = src
 PYTHON_VERSION = 3.10
 PYTHON_INTERPRETER = python
 

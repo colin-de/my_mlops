@@ -1,7 +1,4 @@
-# project_name
-
-my dtu mlops
-
+# My DTU MLOPS
 ## Project structure
 
 The directory structure of the project looks like this:
@@ -37,7 +34,7 @@ The directory structure of the project looks like this:
 │
 ├── tests                <- Test files
 │
-├── project_name  <- Source code for use in this project.
+├── src  <- Source code for use in this project.
 │   │
 │   ├── __init__.py      <- Makes folder a Python module
 │   │
